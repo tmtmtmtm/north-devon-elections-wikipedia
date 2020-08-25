@@ -59,12 +59,7 @@ LAST	Len	"Eithne "Annie" Brenton"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918503	P768	Q1032551	P102	Q9630	P1111	5347	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Finola O'Neill"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1032551	P102	Q9630	P1111	5097	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
+Q76364310	P3602	Q30173038	P768	Q1032551	P102	Q9630	P1111	5097	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
 Q5487101	P3602	Q918450	P768	Q1032551	P102	Q5378337	P1111	142	P1352	6	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
 Q5487101	P3602	Q918508	P768	Q1032551	P102	Q5378337	P1111	568	P1352	4	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
 CREATE
