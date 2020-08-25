@@ -60,3 +60,4 @@ bundle exec ruby generate-qs.rb config.json | tee commands.qs
 ```
 
 Then sent to QuickStatements as https://editgroups.toolforge.org/b/QSv2T/1598340132065/
+and https://editgroups.toolforge.org/b/QSv2T/1598340430269/
