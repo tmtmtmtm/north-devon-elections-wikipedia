@@ -55,7 +55,7 @@ LAST	P106	Q19772737
 LAST	P3602	Q590740	P768	Q1032551	P102	Q9626	P1111	18800	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
-LAST	Len	"Eithne "Annie" Brenton"
+LAST	Len	"Eithne Annie Brenton"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918503	P768	Q1032551	P102	Q9630	P1111	5347	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)"
