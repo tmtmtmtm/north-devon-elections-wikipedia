@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Devon_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1032551",
+    "start": "1950",
+    "end": "9999"
+  }, {
+    "id": "Q47365891",
+    "start": "1832",
+    "end": "1885"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
